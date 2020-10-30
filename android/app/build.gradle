@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.caracoroa"
+        applicationId "com.caracoroarn"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
